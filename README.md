@@ -53,14 +53,50 @@ With a comprehensive understanding of these technologies, I seamlessly integrate
 
 
 
+<!-- <div align="center">
 
-**Install the App from the Play Store**
-<!-- [![3Scorers: Livescores,Highlights & Fantasy football]<img align="left" alt="3Scorers" width="50px" style="padding-right:10px;" src="" />()-->
-<!--[![Software Engineers Make $171k](https://ytcards.demolab.com/?id=jv_0uhe2uz0&title=Software+Engineers+Make+%24171k&lang=en&timestamp=1706101240&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=33 "Software Engineers Make $171k")](https://www.youtube.com/watch?v=jv_0uhe2uz0)
-[![3 Types of Algorithms Every Programmer Needs to Know](https://ytcards.demolab.com/?id=Uym4-KhP3Lc&title=3+Types+of+Algorithms+Every+Programmer+Needs+to+Know&lang=en&timestamp=1705935625&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=792 "3 Types of Algorithms Every Programmer Needs to Know")](https://www.youtube.com/watch?v=Uym4-KhP3Lc)
-[![Programmer Giveaway](https://ytcards.demolab.com/?id=_HUJpBjMjts&title=Programmer+Giveaway&lang=en&timestamp=1705503629&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50 "Programmer Giveaway")](https://www.youtube.com/watch?v=_HUJpBjMjts)
-[![Insertion Sort Visualized](https://ytcards.demolab.com/?id=nZHNwb_evBg&title=Insertion+Sort+Visualized&lang=en&timestamp=1705316443&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=59 "Insertion Sort Visualized")](https://www.youtube.com/watch?v=nZHNwb_evBg)
-[![How Much Software Engineers ACTUALLY Make](https://ytcards.demolab.com/?id=iACHGmlDWiw&title=How+Much+Software+Engineers+ACTUALLY+Make&lang=en&timestamp=1705158060&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1091 "How Much Software Engineers ACTUALLY Make")](https://www.youtube.com/watch?v=iACHGmlDWiw) -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  
+    <div style="margin: 10px;">
+      <a href="Link_to_your_app1" target="_blank">
+        <img src="Image_URL1" alt="App 1" width="100" style="border-radius: 10px;"/>
+      </a>
+    </div>
+
+    <div style="margin: 10px;">
+      <a href="Link_to_your_app2" target="_blank">
+        <img src="Image_URL2" alt="App 2" width="100" style="border-radius: 10px;"/>
+      </a>
+    </div>
+
+    <div style="margin: 10px;">
+      <a href="Link_to_your_app3" target="_blank">
+        <img src="Image_URL3" alt="App 3" width="100" style="border-radius: 10px;"/>
+      </a>
+    </div>
+
+    <div style="margin: 10px;">
+      <a href="Link_to_your_app4" target="_blank">
+        <img src="Image_URL4" alt="App 4" width="100" style="border-radius: 10px;"/>
+      </a>
+    </div>
+
+    <div style="margin: 10px;">
+      <a href="Link_to_your_app5" target="_blank">
+        <img src="Image_URL5" alt="App 5" width="100" style="border-radius: 10px;"/>
+      </a>
+    </div>
+
+    <div style="margin: 10px;">
+      <a href="Link_to_your_app6" target="_blank">
+        <img src="Image_URL6" alt="App 6" width="100" style="border-radius: 10px;"/>
+      </a>
+    </div>
+
+  </div>
+  
+</div>
+-->
 <!-- END YOUTUBE-CARDS -->
 
 
