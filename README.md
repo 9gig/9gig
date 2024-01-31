@@ -43,10 +43,21 @@ With a comprehensive understanding of these technologies, I seamlessly integrate
 <!-- ### 📺 Latest Projects -->
 
 <!-- BEGIN Projects-->
-[![Install from Play Store](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.stemos.app3scorers&pcampaignid=web_share)
+<p align="center">
+  <img src="https://res.cloudinary.com/dmskqxc8w/image/upload/v1706177135/logo_foreground_pha4an.png" alt="3Scorers" width="100"/>
+</p>
+
+<h1 align="center">3Scorers</h1>
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.stemos.app3scorers&pcampaignid=web_share" target="_blank">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Install from Play Store" width="100"/>
+  </a>
+</p>
+
 
 **Install the App from the Play Store**
-<!-- [![3Scorers: Livescores,Highlights & Fantasy football]<img align="left" alt="3Scorers" width="50px" style="padding-right:10px;" src="https://res.cloudinary.com/dmskqxc8w/image/upload/v1706177135/logo_foreground_pha4an.png" />()-->
+<!-- [![3Scorers: Livescores,Highlights & Fantasy football]<img align="left" alt="3Scorers" width="50px" style="padding-right:10px;" src="" />()-->
 <!--[![Software Engineers Make $171k](https://ytcards.demolab.com/?id=jv_0uhe2uz0&title=Software+Engineers+Make+%24171k&lang=en&timestamp=1706101240&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=33 "Software Engineers Make $171k")](https://www.youtube.com/watch?v=jv_0uhe2uz0)
 [![3 Types of Algorithms Every Programmer Needs to Know](https://ytcards.demolab.com/?id=Uym4-KhP3Lc&title=3+Types+of+Algorithms+Every+Programmer+Needs+to+Know&lang=en&timestamp=1705935625&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=792 "3 Types of Algorithms Every Programmer Needs to Know")](https://www.youtube.com/watch?v=Uym4-KhP3Lc)
 [![Programmer Giveaway](https://ytcards.demolab.com/?id=_HUJpBjMjts&title=Programmer+Giveaway&lang=en&timestamp=1705503629&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50 "Programmer Giveaway")](https://www.youtube.com/watch?v=_HUJpBjMjts)
