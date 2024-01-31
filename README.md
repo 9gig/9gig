@@ -44,16 +44,14 @@ With a comprehensive understanding of these technologies, I seamlessly integrate
 
 <!-- BEGIN Projects-->
 <p align="center">
-   <a href="https://play.google.com/store/apps/details?id=com.stemos.app3scorers&pcampaignid=web_share" target="_blank">
-  <img src="https://res.cloudinary.com/dmskqxc8w/image/upload/v1706177135/logo_foreground_pha4an.png" alt="3Scorers" width="100"/>
-      <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Install from Play Store" width="100"/>
-        </a>
+  <a href="https://play.google.com/store/apps/details?id=com.stemos.app3scorers&pcampaignid=web_share" target="_blank">
+    <img src="https://res.cloudinary.com/dmskqxc8w/image/upload/v1706177135/logo_foreground_pha4an.png" alt="3Scorers" width="100"/>
+    <br/>
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Install from Play Store" width="100"/>
+  </a>
 </p>
-<p align="center">
-  
-    
 
-</p>
+
 
 
 **Install the App from the Play Store**
